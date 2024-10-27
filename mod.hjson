@@ -1,23 +1,23 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Indutgin"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "indutgin"
 
 #your name
-author: "You"
+author: "晴天有雪OvO"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "indutgin.IndutginMod"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "A Mindustry mod."
 
 #the mod version
-version: 1.0
+version: 0.01
 
 #the minimum game build required to run this mod
-minGameVersion: 145
+minGameVersion: 146
 
 #this is a java mod
 java: true
